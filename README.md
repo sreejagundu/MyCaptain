@@ -1,1 +1,1 @@
-<bold>Projects
+Projects
